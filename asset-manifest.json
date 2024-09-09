@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f480fdd.css",
-    "main.js": "/static/js/main.8b3b9c11.js",
+    "main.css": "/static/css/main.9e30bf38.css",
+    "main.js": "/static/js/main.abad35c5.js",
     "static/media/assemblea e nuovo statuto.pdf": "/static/media/assemblea e nuovo statuto.7c3ed76aa47d0d8a9ae8.pdf",
+    "static/media/privacy.pdf": "/static/media/privacy.c19edec6c363b3c77d1f.pdf",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/tesseramento.pdf": "/static/media/tesseramento.52a4136a79579e98bf05.pdf",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.4689f52cc96215721344.svg",
@@ -19,11 +21,11 @@
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/index.html",
-    "main.5f480fdd.css.map": "/static/css/main.5f480fdd.css.map",
-    "main.8b3b9c11.js.map": "/static/js/main.8b3b9c11.js.map"
+    "main.9e30bf38.css.map": "/static/css/main.9e30bf38.css.map",
+    "main.abad35c5.js.map": "/static/js/main.abad35c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f480fdd.css",
-    "static/js/main.8b3b9c11.js"
+    "static/css/main.9e30bf38.css",
+    "static/js/main.abad35c5.js"
   ]
 }
