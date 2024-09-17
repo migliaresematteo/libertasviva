@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9e30bf38.css",
-    "main.js": "/static/js/main.04a81787.js",
+    "main.js": "/static/js/main.fdf5572a.js",
     "static/media/assemblea e nuovo statuto.pdf": "/static/media/assemblea e nuovo statuto.7c3ed76aa47d0d8a9ae8.pdf",
     "static/media/privacy.pdf": "/static/media/privacy.c19edec6c363b3c77d1f.pdf",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -22,10 +22,10 @@
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/index.html",
     "main.9e30bf38.css.map": "/static/css/main.9e30bf38.css.map",
-    "main.04a81787.js.map": "/static/js/main.04a81787.js.map"
+    "main.fdf5572a.js.map": "/static/js/main.fdf5572a.js.map"
   },
   "entrypoints": [
     "static/css/main.9e30bf38.css",
-    "static/js/main.04a81787.js"
+    "static/js/main.fdf5572a.js"
   ]
 }
